@@ -4,7 +4,7 @@ Let the strings tell your story...
 
 **Vstring** is a virtual guitar website made with HTML, CSS, and JavaScript. Explore acoustic and electric guitars, click on their strings to play musical notes, and enjoy a simple interactive guitar experience!
 
-### Demo-Link: [Vstring](YOUR_LIVE_DEMO_LINK)
+### Demo-Link: https://swyaeta.github.io/Vstrings/
 
 ### The main page:
 #### Top:<img width="1800" height="888" alt="Screenshot (1782)" src="https://github.com/user-attachments/assets/ffd5da3e-0359-450a-b7fc-1ce45ee1c3c0" />
