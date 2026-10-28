@@ -1,0 +1,30 @@
+body{
+    background-color: #FAF4E8;
+    color: #34251D;
+    font-family: "Playfair Display", serif;
+    text-align: center;
+}
+
+h1{
+    color: #34251D;
+    margin-top:100px;
+    font-size:50px
+  
+}
+
+p{
+    color: #955f3e;
+    margin-top:-20px;
+    font-size:18px
+}
+
+.guitar img{ 
+    width:120%;
+    height:90%;
+    border-radius: 30px;
+    transform:rotate(36deg)
+}
+
+.guitar{
+    margin-top:-150px
+}
