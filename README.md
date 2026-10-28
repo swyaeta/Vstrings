@@ -13,11 +13,12 @@ Let the strings tell your story...
 #### Choose between the acoustic and electric guitar and start playing!
 
 #### Acoustic Guitar:
+<img width="1858" height="882" alt="Screenshot (1784)" src="https://github.com/user-attachments/assets/c7e97a0c-687e-4cf9-9154-2b5b872dc176" />
+#### Its zoomed in alot so that the strings are properly abled to play
 
-
-Click on the strings to play different musical notes and explore the acoustic guitar.
 
 #### Electric Guitar
+img:<img width="1814" height="817" alt="Screenshot (1785)" src="https://github.com/user-attachments/assets/c3162e03-716e-4d00-a57a-1c800e8b5d1f" />
 
 Switch to the electric guitar and play notes with a stronger, distorted sound.
 
