@@ -1,0 +1,30 @@
+body{
+    background-color: #FAF4E8;
+    color: #34251D;
+    font-family: "Playfair Display", serif;
+    text-align: center;
+}
+
+h1{
+    color: #34251D;
+    margin-top:100px;
+    font-size:50px
+  
+}
+
+p{
+    color: #955f3e;
+    margin-top:-20px;
+    font-size:18px
+}
+
+.goptions{
+    display: flex;
+    background-color: #E6D2B5;       
+}
+
+.gcard img{ 
+    width:80%;
+    height:30%;
+    border-radius: 30px;
+}
