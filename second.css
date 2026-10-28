@@ -1,4 +1,5 @@
 
+/* this is for background and text style */
 body{
     background-color: #FAF4E8;
     color: #34251D;
@@ -6,20 +7,21 @@ body{
     text-align: center;
 }
 
-
+/* styling the main heading */
 h1{
     color: #34251D;
     margin-top:100px;
     font-size:50px
-  
 }
 
+/* styling the subtitle */
 p{
     color: #955f3e;
     margin-top:-20px;
     font-size:18px
 }
 
+/* making the guitar bigger and tilting it */
 .guitars img{ 
     width:260%;
     height:80%;
@@ -27,11 +29,13 @@ p{
     transform:rotate(57deg)
 }
 
+/* positioning the guitar */
 .guitars{
-    margin-top:-800px;
+    margin-top:-1000px;
     position: relative  
 }
 
+/* placing the strings on the guitar */
 .stringgs {
     position: absolute;
     top: 13%;
@@ -43,6 +47,7 @@ p{
     transform: rotate(57deg)
 }
 
+/* styling the strings and making them clickable */
 .striing {
     width: 6px;
     height: 100%;
@@ -50,20 +55,4 @@ p{
     cursor: pointer;
     position: relative;
     z-index: 2;
-}
-
-.go{
-    margin-left:10px;
-    margin-top:-180px;
-    width:70px;
-    height:70px;
-    font-size:18px;
-    background-color: #917668;
-    color:antiquewhite;
-    border:2px solid rgb(101, 67, 67)
-}
-
-a{
-    text-decoration: none;
-    color:inherit
 }
