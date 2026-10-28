@@ -19,12 +19,30 @@ p{
 }
 
 .guitar img{ 
-    width:120%;
-    height:90%;
+    width:70%;
+    height:80%;
     border-radius: 30px;
-    transform:rotate(36deg)
+    transform:rotate(54deg)
 }
 
 .guitar{
-    margin-top:-150px
+    margin-top:-200px;
+    position: relative  
+}
+
+.strings {
+    position: absolute;
+    top: 2%;
+    left: 44%;
+    width: 8%;
+    height: 90%;
+    display: flex;
+    justify-content: space-between;
+    transform: rotate(56deg)
+}
+
+.string {
+    width: 2px;
+    height: 100%;
+    background-color: #f7ebeb;
 }
