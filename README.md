@@ -7,10 +7,13 @@ Let the strings tell your story...
 ### Demo-Link: [Vstring](YOUR_LIVE_DEMO_LINK)
 
 ### The main page:
+#### Top:<img width="1800" height="888" alt="Screenshot (1782)" src="https://github.com/user-attachments/assets/ffd5da3e-0359-450a-b7fc-1ce45ee1c3c0" />
+#### Bottom:<img width="1779" height="819" alt="Screenshot (1783)" src="https://github.com/user-attachments/assets/58bc5b35-7bd9-43e3-adc3-20651abcc2f8" />
 
 #### Choose between the acoustic and electric guitar and start playing!
 
-#### Acoustic Guitar
+#### Acoustic Guitar:
+
 
 Click on the strings to play different musical notes and explore the acoustic guitar.
 
